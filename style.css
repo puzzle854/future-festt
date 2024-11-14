@@ -1,0 +1,230 @@
+.header {
+    background-color: black;
+    height: 100px;
+}
+
+.body {
+    background-color: rgb(229, 229, 229);
+}
+
+.logo {
+    margin-top: 15px;
+    margin-left: 50px;
+    width: 17%;
+}
+
+.subtitles {
+    display: flex;
+    justify-content: baseline;
+    color: white;
+    margin-top: -40px;
+    margin-left: 60%;
+}
+
+.btn {
+    background-color: #D99228;
+    margin-top: -75px;
+    margin-left: 86%;
+    height: 60px;
+    width: 10%;
+    border-radius: 8px;
+}
+
+.met {
+    color: white;
+    margin-top: -39.6px;
+    margin-left: 73%;
+    text-decoration: none;
+}
+
+
+
+.met a {
+    color: white; 
+    text-decoration: none;  
+}
+
+.text-body {
+    color: rgb(0, 0, 0);
+    margin-top: -50%;
+    margin-left: 40px;
+    font-size: 10px;
+}
+
+.back-body-first {
+    background-image: url(./img/back-body-first.png);
+    height: 80vh;
+    width: 100%;
+
+}
+
+.padlock {
+    position: absolute;
+    right: 0;
+    top: 8%;
+}
+
+.back-image-one {
+    background-image: url(./img/img-traine.png);
+    background-position: center;
+    background-size: cover;
+    height: 45.7vh;
+    margin-top: 25%;
+}
+
+.text-back-one {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    top: 105%;
+    right: 22%;
+    text-align: center;
+}
+
+ul {
+    position: absolute;
+    right: 44%;
+    font-size: 18px;
+    top: 145%;
+}
+
+.comp {
+    position: absolute;
+    right: 10%;
+    top: 140%;
+    width: 25%;
+}
+
+.container {
+    position: absolute;
+    top: 185%;
+    right: 0%;
+    height: 15%;
+    width: 100%;
+    padding-left: 100%;
+    background-color: black;
+    color: white;
+}
+
+.descu {
+    position: absolute;
+    left: 18%;
+    top: 30%;
+    font-size: 30px;
+    text-align: center;
+}
+
+.back-body-tree {
+    background-image: url(./img/back-bodyfour.png);
+    background-position: center;
+    background-size: cover;
+    height: 70.7vh;
+    margin-top: 50%;
+}
+
+.descobrir {
+    position: absolute;
+    right: 42%;
+    top: 258%;
+    border-radius: 9px;
+    width: 15%;
+    height: 5%;
+    background-color: #D99228;
+}
+
+.about-us {
+    background-image: url(./img/about-us.png);
+    background-position: center;
+    background-size: cover;
+    height: 20vh;
+    width: 70%;
+    margin-top: 1%;
+    margin-left: 150px;
+}
+
+.container-card {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+
+.card {
+    height: 350px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: rgb(233, 233, 233);
+}
+
+.poligono {
+    position: absolute;
+    top: 137%;
+    right: 82%;
+    width: 13%;
+    height: 40vh;
+}
+
+.back-body-five {
+    margin-top: -40px;
+    background-image: url(./img/back-body-tree.png);
+    height: 90.7vh;
+}
+
+.container-linha {
+    background-color: white;
+    margin-top: -593px;
+    margin-left: 90px;
+    width: 85%;
+    height: 2px;
+}
+
+.integrante1 {
+    width: 17%;
+    margin-left: 140px;
+    margin-top: 40px;
+}
+
+.cards {
+    height: 400px;
+    width: 350px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+}
+
+.container-cards {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn,
+button {
+    transition: background-color 0.3s, color 0.3s, transform 0.5s;
+}
+
+.btn:hover,
+button:hover {
+    background-color: #D99228;
+    color: white;
+    transform: scale(1.1);
+}
+
+footer {
+    background-color: black;
+}
+
+.espc{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-cards{
+    background-color: #D99228;
+    height: 50px;
+    width: 60%;
+    border: 18px;
+    border-radius: 10px;
+}
+
+.topicos{
+  color: white;
+}
